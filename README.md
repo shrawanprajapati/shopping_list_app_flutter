@@ -124,4 +124,4 @@ Contributions are welcome! If you have ideas for new modes or features:
 
 **Shrawan Prajapati**
 * GitHub: [shrawanprajapati](https://github.com/shrawanprajapati)
-* Email: [prajapatisharawan75@gmail.com]
+* Email: [prajapatishrawan75@gmail.com]
